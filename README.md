@@ -8,3 +8,4 @@ Here was a change.
 #The sixth commit.
 #The guest commit.
 #News 7
+#News 8
